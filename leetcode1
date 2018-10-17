@@ -2,6 +2,6 @@
 def twoSum(nums, target):
 	d = dict()
 	for i, num in enumerate(nums):
-		if targe - num in d:
-			return [d[target-num] ,i]
+		if target - num in d.keys():
+			return [d[target-num], i]
 		d[num] = i

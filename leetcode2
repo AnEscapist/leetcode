@@ -23,4 +23,4 @@ class  Solution:
        l2 = l2.next
     if carry:
       cur.next = ListNode(carry)
-    return dummy
+    return dummy.next

@@ -17,6 +17,8 @@ return [0, 1].
 
 **Tags:** Array, Hash Table
 
+## Solution
+
 ```python
 class Solution(object):
     def twoSum(self, nums, target):

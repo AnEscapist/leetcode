@@ -31,7 +31,7 @@ P     I
 
 **Tags**: String, Math
 
-#Solution
+# Solution
 
 ```python
 class Solution:

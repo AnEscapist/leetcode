@@ -19,6 +19,9 @@ Output: -1
 
 **Method:** Time complexity should be O(log n), so consider binary search
 
+
+# Solution
+
 ```python
 class Solution(object):
     def search(self, nums, target):
